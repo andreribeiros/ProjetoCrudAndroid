@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Cadastro de Médicos</string>
+    <string name="title_activity_cadastro_medico">CadastroMedico</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="dadosnaoinformados">Dados não informados!</string>
+    <string name="jaexistealunocomestamatricula">Já existe médico cadastrado com esse CRM!</string>
+    <string name="dadosgravados">Dados gravados com sucesso.</string>
+    <string name="erroaogravardadosdoaluno">Erro ao gravar dados do médico!</string>
+    <string name="nenhumalunocomestamatricula">Não existe medico com esse CRM.</string>
+    <string name="alunoencontrado">Medico encontrado!</string>
+    <string name="nenhumalunocadastrado">Nenhum medico cadastrado!</string>
+    <string name="medicoauterado">Dados auterados com sucesso.</string>
+    <string name="medicodeletado">Dados deletado com sucesso..</string>
+</resources>
